@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServletResponse;
 import it.unisa.model.ProdottoBean;
 import it.unisa.model.ProdottoDao;
 
-/**
+/** 
  * Servlet implementation class HomeServlet
  */
 @WebServlet("/home")
